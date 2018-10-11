@@ -1,6 +1,6 @@
-# test-project
+# vue-petstore-app
 
-> A Vue.js project
+> A Vue.js project created in vue-vixens workshop at Node+JS Interactive 2018 (Vancouver)
 
 ## Build Setup
 
