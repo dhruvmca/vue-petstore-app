@@ -24,4 +24,14 @@ npm run unit
 npm test
 ```
 
-Instructions to build this app can be found here: [https://vuevixens.github.io/docs/workshop/ch1.html](https://vuevixens.github.io/docs/workshop/ch1.html)
+Vue Front-end Web App:
+
+> Instructions to build this app can be found here: [https://vuevixens.github.io/docs/workshop/ch1.html](https://vuevixens.github.io/docs/workshop/ch1.html)
+
+> Code can be found here: https://codesandbox.io/s/r61n01zpq
+
+Vue NativeScript App:
+
+> Tutorial can be found here: [https://vuevixens.github.io/docs/workshop/mini2.html#scaffold-your-app](https://vuevixens.github.io/docs/workshop/mini2.html#scaffold-your-app)
+
+> The NativeScript project can be found here: https://play.nativescript.org/?template=play-vue&id=f2cbIK
